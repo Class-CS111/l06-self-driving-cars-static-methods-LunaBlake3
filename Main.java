@@ -14,7 +14,7 @@ public class Main
 	}
 	
 	// Part 1: Creating method definition
-	// return type is void //method identifier is "printCarAnswers" // 
+	// return type is void //method identifier is "printCarAnswers"
 	public static void printCarAnswers()    //method header
 	{ //method body
 		System.out.println("\033[1m" + "Should a self-driving car prioritize the safety of its passengers or pedestrians?" + "\033[0m");
